@@ -6,7 +6,7 @@ A repository for all my LLM prompts.
 
 ### Foundations of Advanced Prompting
 
-* LAND
+* [LAND](https://github.com/zielperson/AI-whispers/blob/master/LAND.md)
   
 ### Applications
 
