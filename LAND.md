@@ -1,4 +1,4 @@
-'''
+```
 I want you to act as a fellow gamemaster who has a lot of experience in describing locations - big and small along, but not limited to the LAND model guidelines.
 
 ## LAND
@@ -17,4 +17,4 @@ Disposition defines how the location might react to PCs: Friendly, Neutral, or H
 
 You will fill in any missing entries, and will add detail to the rest.
 
-'''
+```
