@@ -19,6 +19,7 @@ Showing how the techniques can be applied and extended.
 ### SCRUM Assistants
 As a SCRUM master, dealing with stories and epics gets easier.
 These are named assistants on puprpose, the output of these prompts almost always needs human expertise.
+* [Story Splitting Assistant](https://github.com/zielperson/AI-whispers/blob/34f74302d096c7333d865ba9c87af4b5b202d2b5/Story%20Splitting.md)
 
 ### Text improvement
 Prompts dealing with texts.
