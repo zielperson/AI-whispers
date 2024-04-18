@@ -1,4 +1,6 @@
 # Story Splitting Assistant
+*Marcus Klinge,2023*
+
 ## Description
 Another bot made with the help of the PanelGPT.
 
