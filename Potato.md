@@ -1,6 +1,6 @@
 # Potato
 
-<img src="https://github.com/zielperson/AI-whispers/assets/6573203/6f337e98-89b5-4c8d-95d3-71c3c43dfaa4" witdth="200px"/>
+<img src="https://github.com/zielperson/AI-whispers/assets/6573203/6f337e98-89b5-4c8d-95d3-71c3c43dfaa4" witdth="300"/>
 
 
 This prompt was developed by Dom Sipowicz who posted it on the 8th of Augzst 2023 here:
