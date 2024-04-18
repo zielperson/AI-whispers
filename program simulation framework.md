@@ -1,4 +1,5 @@
 # Program Simulation framework
+<img src="https://github.com/zielperson/AI-whispers/assets/6573203/f7c88531-dd1e-4ae5-b784-5e31d1d7da64" width="300"/>
 
 ## Description
 https://medium.com/towards-data-science/prompt-engineering-evolution-defining-the-new-program-simulation-prompt-framework-d8a1ee096904
