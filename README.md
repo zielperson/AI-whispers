@@ -1,6 +1,10 @@
 # AI Whispers
 A repository for all my LLM prompts.
 
+## Information
+Author: Marcus Klinge
+Date: 2023
+
 ## Collections
 
 ### Foundations of Advanced Prompting
