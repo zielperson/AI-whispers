@@ -8,8 +8,6 @@ Both papers are algorithmic solutions to math problems and produced no direct pr
 This was dine here by Hulbert in 2023, who successfully condensed the algorithm into a single prompt.
 You can view this on the [GitHub page](https://github.com/dave1010/tree-of-thought-prompting).
 
-The next installment in this series is PanelGPT by Sun(2023).
-
 ```
 Imagine three different experts are answering this question.
 All experts will write down 1 step of their thinking,
