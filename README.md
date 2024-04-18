@@ -9,6 +9,7 @@ These are base knowledge if you want to get deeper into prompting.
 
 * [Tree of Thoughts](https://github.com/zielperson/AI-whispers/blob/ac598390fc0129fc4b292392e0d3c67851dbcfce/Tree%20of%20Thoughts.md)
 * [PanelGPT](https://github.com/zielperson/AI-whispers/blob/1282a10e2e06740920915c0d1e2e8a2d47bfc948/PanelGPT.md)
+* [Potato](/https://github.com/zielperson/AI-whispers/blob/e8d3b7ea1d9f54685f437db82037bc824353aa2a/Potato.md)
 
 
 ### Applications
