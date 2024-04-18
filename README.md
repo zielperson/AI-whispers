@@ -14,7 +14,7 @@ These are base knowledge if you want to get deeper into prompting.
 * [Program Simulation Framework](https://github.com/zielperson/AI-whispers/blob/aac7c049be527ced3cbef8fef85bc62fb2b45318/program%20simulation%20framework.md)
 
 ### Applications
-Showing how the techniques can be applied.
+Showing how the techniques can be applied and extended.
 
 ### SCRUM Assistants
 As a SCRUM master, dealing with stories and epics gets easier.
