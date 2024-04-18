@@ -1,3 +1,4 @@
+<img src="https://github.com/zielperson/AI-whispers/assets/6573203/f9c11e3d-98e9-4595-a3de-7f93a10cb283" width="300">
 
 This technique was described by Sun(2023) and can be seen on their github.
 
