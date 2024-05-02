@@ -27,7 +27,7 @@ These are named assistants on puprpose, the output of these prompts almost alway
 
 ### Text improvement
 Prompts dealing with texts.
-
+[Textimprover v2]
 ### GM's Familiar
 A series of prompts to aid GameMasters of Tabletop Roleplaying games. From characters to beasts.
 
