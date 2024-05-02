@@ -17,13 +17,15 @@ These are base knowledge if you want to get deeper into prompting.
 * [Contextual scaffolds](https://github.com/zielperson/AI-whispers/blob/c83eaf58a7040b1296e490b9a52e235da84e1bc3/contextual%20scaffolding.md)
 * [Program Simulation Framework](https://github.com/zielperson/AI-whispers/blob/aac7c049be527ced3cbef8fef85bc62fb2b45318/program%20simulation%20framework.md)
 
-### Applications
+## Applications
 Showing how the techniques can be applied and extended.
 
 ### SCRUM Assistants
 As a SCRUM master, dealing with stories and epics gets easier.
 These are named assistants on puprpose, the output of these prompts almost always needs human expertise.
+* [SCRUM Story Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20story%20refinement.md)
 * [Story Splitting Assistant](https://github.com/zielperson/AI-whispers/blob/34f74302d096c7333d865ba9c87af4b5b202d2b5/Story%20Splitting.md)
+* [Epic Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20story%20refinement.md)
 
 ### Text improvement
 Prompts dealing with texts.
@@ -33,4 +35,6 @@ A series of prompts to aid GameMasters of Tabletop Roleplaying games. From chara
 
 ### Metaprompts
 Prompts creating and refining other prompts.
-
+* [Prompt Improver](https://github.com/zielperson/AI-whispers/blob/master/Prompt%20Improver.md)
+* [CO-STAR Prompt Refinement](https://github.com/zielperson/AI-whispers/blob/master/costar.md)
+* [PICOI Prompt Improvement](https://github.com/zielperson/AI-whispers/blob/master/picoi.md)
