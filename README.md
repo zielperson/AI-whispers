@@ -19,8 +19,8 @@ These are base knowledge if you want to get deeper into prompting.
 
 ## Applications
 Showing how the techniques can be applied and extended.
-[Recursive Panel](https://github.com/zielperson/AI-whispers/blob/master/recursive%20panel.md)
-[Panel with judge](https://github.com/zielperson/AI-whispers/blob/master/recpanelwjudge.md)
+* [Recursive Panel](https://github.com/zielperson/AI-whispers/blob/master/recursive%20panel.md)
+* [Panel with judge](https://github.com/zielperson/AI-whispers/blob/master/recpanelwjudge.md)
 
 ### SCRUM Assistants
 As a SCRUM master, dealing with stories and epics gets easier.
