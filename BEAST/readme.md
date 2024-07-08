@@ -2,9 +2,9 @@
 
 ### BEAST
 
-**Behaviour**
-**Environment**
-**Appearance**
-**Special**
-**Teeth**
+* Behaviour
+* Environment
+* Appearance
+* Special
+* Teeth
 
