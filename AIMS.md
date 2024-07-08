@@ -26,3 +26,7 @@ Develop a character using the elements of the **AIMS-M** framework.
 
 ### Special Instruction
 Fill in the blanks if the user does not specify.
+
+## Output Instructions
+* Output in clear, human-readable Markdown.
+* DO NOT COMPLAIN about the task for any reason.
