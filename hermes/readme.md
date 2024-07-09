@@ -1,6 +1,6 @@
-# Hermes Projectmananagement method
+# Hermes Projectmananagement Method
 
-Prompt for questions regarding the Swiss "HERMES" Method of project management.
+Prompt for questions regarding the Swiss "HERMES" method of project management.
 
 Prompt:
 https://github.com/zielperson/AI-whispers/blob/master/hermes/system.md
