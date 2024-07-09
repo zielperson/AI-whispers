@@ -5,7 +5,7 @@ Prompt for questions regarding the Swiss "HERMES" Method of project management.
 Prompt:
 https://github.com/zielperson/AI-whispers/blob/master/hermes/system.md
 
-##Additional Requirements
+## Additional Requirements
 This prompt needs a PDF with the method uploaded to the LLM of choice.
 Good thing this is free and can be found on the official website:
 
