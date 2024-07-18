@@ -10,3 +10,5 @@ Both papers are algorithmic solutions to math problems and produced no direct pr
 
 This was done by Hulbert in 2023, who successfully condensed the algorithm into a single prompt.
 You can view this on the [GitHub page](https://github.com/dave1010/tree-of-thought-prompting).
+
+To the prompt https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/system.md
