@@ -14,7 +14,7 @@ You can view this on the [GitHub page](https://github.com/dave1010/tree-of-thoug
 To the prompt https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/system.md
 
 
-@misc{tree-of-thought-prompting,
+''' @misc{tree-of-thought-prompting,
 	title        = {Using Tree-of-Thought Prompting to boost ChatGPT's reasoning},
 	author       = {Dave Hulbert},
 	year         = 2023,
