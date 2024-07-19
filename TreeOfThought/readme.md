@@ -19,16 +19,6 @@ The "Tree of Thoughts" technique builds upon the foundational work of Yao and Lo
 
 ## resoruces
 For more detailed information, you can explore the original papers and additional resources through the following links:
-The title of Yao's paper is **"Tree of Thoughts: Deliberate Problem Solving with Large Language Models"**.
-
-I will now check Long's paper for the title.
-
-The title of Long's paper is **"Large Language Model Guided Tree-of-Thought"**.
-
-Now I will check Hulbert's GitHub page for the implementation title.
-
-Here are the original titles for each study:
-
 - **Yao's Paper**: [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 - **Long's Paper**: [Large Language Model Guided Tree-of-Thought](https://arxiv.org/abs/2305.08291)
 - **Hulbert's Implementation**: [Using Tree-of-Thought Prompting to boost ChatGPT's reasoning](https://github.com/dave1010/tree-of-thought-prompting)
