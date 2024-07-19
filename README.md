@@ -35,7 +35,7 @@ Prompts dealing with texts.
   
 ### GM's Familiar
 A series of prompts to aid GameMasters of Tabletop Roleplaying games. From characters to beasts.
-* [AIMS Character Creator](https://github.com/zielperson/AI-whispers/blob/master/AIMS.md)
+* [[AIMS - TTRPG Character creator]](https://github.com/zielperson/AI-whispers/tree/master/RPG%20-%20AIMS) 
 * [LAND Location generator](https://github.com/zielperson/AI-whispers/blob/master/LAND.md)
 * [BEAST - Creature generator](https://github.com/zielperson/AI-whispers/blob/master/BEAST.md)
 
