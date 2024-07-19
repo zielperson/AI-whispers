@@ -12,3 +12,16 @@ This was done by Hulbert in 2023, who successfully condensed the algorithm into 
 You can view this on the [GitHub page](https://github.com/dave1010/tree-of-thought-prompting).
 
 To the prompt https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/system.md
+
+
+@misc{tree-of-thought-prompting,
+	title        = {Using Tree-of-Thought Prompting to boost ChatGPT's reasoning},
+	author       = {Dave Hulbert},
+	year         = 2023,
+	month        = may,
+	journal      = {GitHub repository},
+	publisher    = {Zenodo},
+	doi          = {10.5281/ZENODO.10323452},
+	url          = {https://doi.org/10.5281/zenodo.10323452},
+	howpublished = {\url{https://github.com/dave1010/tree-of-thought-prompting}}
+}
