@@ -17,7 +17,7 @@ The primary purpose of the "Tree of Thoughts" concept is to enhance problem-solv
 
 The "Tree of Thoughts" technique builds upon the foundational work of Yao and Long, whose papers provide the theoretical framework for this approach. By structuring thoughts in a hierarchical manner, this technique allows for a more organized exploration of potential solutions, leading to more efficient problem resolution.
 
-## resoruces
+## Resources
 For more detailed information, you can explore the original papers and additional resources through the following links:
 - **Yao's Paper**: [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 - **Long's Paper**: [Large Language Model Guided Tree-of-Thought](https://arxiv.org/abs/2305.08291)
