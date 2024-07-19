@@ -9,6 +9,7 @@ https://github.com/holarissun/PanelGPT
 Interestingly, a penalty avoidance strategy was the most succesfull.
 
 ## Prompt
+https://github.com/zielperson/AI-whispers/blob/master/PanelGPT/system.md
 
 ```
 3 experts are discussing the question with a panel discussion, trying to solve it step by step, and make sure the result is correct and avoid penalty: {{input}}
