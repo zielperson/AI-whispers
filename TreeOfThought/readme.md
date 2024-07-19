@@ -1,16 +1,36 @@
-# Tree of Thoughts
-The initial "Tree of Thoughts" concept was introduced by Yao in 2023, and you can explore their work [here](https://arxiv.org/abs/2305.10601), and on their [GitHub page](https://github.com/princeton-nlp/tree-of-thought-llm).
+# Tree of Thoughts Introduction
+## Summary
 
-Long's 2023 paper was basically the same, at the same time.
-Their paper is available [here](https://arxiv.org/abs/2305.08291).
+- **Origin**: Introduced by Yao and Long in 2023, this concept structures problem-solving in a hierarchical, tree-like manner.
+- **Purpose**: Enhances complex decision-making and strategic planning through organized thought processes.
+- **Development**: Hulbert condensed the theoretical framework into a practical prompt later in 2023.
 
-Personally, I would give the creator title for this technique to both.
-Both papers are algorithmic solutions to math problems and produced no direct prompt.
+The "Tree of Thoughts" concept, introduced by Yao in 2023, presents a novel approach to solving complex problems using algorithmic thinking. This concept is detailed in their [paper](https://arxiv.org/abs/2305.10601) and further explored on their [GitHub page](https://github.com/princeton-nlp/tree-of-thought-llm). At the same time, Long's 2023 paper also contributed to this field, presenting similar ideas and methodologies. You can access Long's work [here](https://arxiv.org/abs/2305.08291).
 
-This was done by Hulbert in 2023, who successfully condensed the algorithm into a single prompt.
-You can view this on the [GitHub page](https://github.com/dave1010/tree-of-thought-prompting).
+In essence, both Yao and Long's papers propose algorithmic solutions to mathematical problems but did not provide a direct prompt for implementation. Converting these algorithms into a usable prompt was achieved by Hulbert in 2023. Hulbert's work successfully condensed the algorithm into a single, actionable prompt, which can be found on his [GitHub page](https://github.com/dave1010/tree-of-thought-prompting).
 
-## Prompt
-The prompt is as it is in the original. A further structuring using markdown is no improvement.
+## Purpose and Use Cases
 
-To the prompt https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/system.md
+The primary purpose of the "Tree of Thoughts" concept is to enhance problem-solving efficiency by structuring the thought process in a tree-like manner. This method is particularly useful in areas requiring complex decision-making and strategic planning, such as artificial intelligence, game theory, and operations research.
+
+## Background
+
+The "Tree of Thoughts" technique builds upon the foundational work of Yao and Long, whose papers provide the theoretical framework for this approach. By structuring thoughts in a hierarchical manner, this technique allows for a more organized exploration of potential solutions, leading to more efficient problem resolution.
+
+## resoruces
+For more detailed information, you can explore the original papers and additional resources through the following links:
+The title of Yao's paper is **"Tree of Thoughts: Deliberate Problem Solving with Large Language Models"**.
+
+I will now check Long's paper for the title.
+
+The title of Long's paper is **"Large Language Model Guided Tree-of-Thought"**.
+
+Now I will check Hulbert's GitHub page for the implementation title.
+
+Here are the original titles for each study:
+
+- **Yao's Paper**: [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+- **Long's Paper**: [Large Language Model Guided Tree-of-Thought](https://arxiv.org/abs/2305.08291)
+- **Hulbert's Implementation**: [Using Tree-of-Thought Prompting to boost ChatGPT's reasoning](https://github.com/dave1010/tree-of-thought-prompting)
+
+This structured approach to problem-solving opens new avenues in the application of algorithmic thinking, providing a valuable tool for researchers and practitioners in various fields.
