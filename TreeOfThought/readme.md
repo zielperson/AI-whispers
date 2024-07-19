@@ -11,4 +11,6 @@ This was done by Hulbert in 2023, who successfully condensed the algorithm into 
 You can view this on the [GitHub page](https://github.com/dave1010/tree-of-thought-prompting).
 
 ## Prompt
+The prompt is as it is in the original. A further structuring using markdown is no improvement.
+
 To the prompt https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/system.md
