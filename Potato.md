@@ -1,7 +1,6 @@
 # The Potato Prompt
 
-The Potato Prompt is designed to make ChatGPT's responses more concise and direct, addressing the common issue of excessive verbosity in AI interactions. 
-By using this prompt, users can ensure that the AI provides only the essential information, which is particularly useful for API users who pay by the token and those who prefer brevity.
+By using this prompt, users can ensure that the AI provides only the essential information.
 
 ## Purpose and Use Cases
 
