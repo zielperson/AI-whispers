@@ -1,11 +1,19 @@
 # AIMS-M NPC Creator
 ## Overview
-This tool helps create detailed character descriptors for tabletop role-playing games (TTRPGs) by specifying roles, settings, attributes, and abilities.
+This tool helps create detailed character descriptors for tabletop role-playing games by specifying 
+
+**A**genda
+**I**nstinct
+**M**oves
+**S**ecrets
+**M**annerisms, and quotes.
+
+The tool also describes the physical appearance and gives a name to the character.
 
 ## How to Use
-Simply describe the character you need, focusing on what you know. Leave out unnecessary details.
+Simply describe the character you need, focusing on what you know. Leave out unknown details.
 
-## Example Prompt
+## Example input
 Describe a cult leader in a modern setting with magical powers.
 
 ## Purpose
