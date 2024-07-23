@@ -1,7 +1,6 @@
 # COSTAR Prompt Improvement
 
 * The COSTAR framework helps refine AI prompts for better clarity and effectiveness.
-* The updated version provides detailed steps for refining each component.
 * It aims to ensure prompts are clear, targeted, and appropriately styled.
 
 ## Details
