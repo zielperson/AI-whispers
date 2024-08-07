@@ -1,4 +1,4 @@
-#PanelGPT
+# PanelGPT
 ## Management Summary
 - Panel GPT was introduced by Sun in 2023 and described in their GitHub repository.
 - The technique includes a successful penalty avoidance strategy.
@@ -14,5 +14,5 @@ The prompt in its original form, is documented in the repository.
 - **Recursive Panel GPT**: This approach iteratively improves model responses through a feedback loop, allowing for more precise and accurate outputs.
 - **Recursive Panel with Judge**: Adds a "supernatural" JUDGE entitiy to the recursive process, further ensuring the quality and reliability of the model's responses.
 
-##Prompot
+## Prompt
 * [PanelGPT](https://github.com/zielperson/AI-whispers/blob/master/PanelGPT/system.md).
