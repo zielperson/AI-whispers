@@ -27,7 +27,7 @@ As a SCRUM master, dealing with stories and epics gets easier.
 These are named assistants on purpose; the output of these prompts almost always needs human expertise.
 * [SCRUM Story Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20story%20refinement.md)
 * [Story Splitting Assistant](https://github.com/zielperson/AI-whispers/blob/master/Story%20Splitting.md)
-* [Epic Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20story%20refinement.md)
+* [Epic Refinement](https://github.com/zielperson/AI-whispers/blob/master/Epic%20Refinement.md)
 
 ### Text improvement
 Prompts dealing with texts.
@@ -35,7 +35,7 @@ Prompts dealing with texts.
   
 ### GM's Familiar
 A series of prompts to aid GameMasters of Tabletop Roleplaying games. From characters to beasts.
-* [AIMS - TTRPG Character creator](https://github.com/zielperson/AI-whispers/tree/master/RPG%20-%20AIMS.md) 
+* [AIMS - TTRPG Character creator](https://github.com/zielperson/AI-whispers/blob/master/RPG%20-%20AIMS.md) 
 * [LAND Location generator](https://github.com/zielperson/AI-whispers/blob/master/LAND.md)
 * [BEAST - Creature generator](https://github.com/zielperson/AI-whispers/blob/master/BEAST.md)
 
