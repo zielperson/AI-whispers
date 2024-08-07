@@ -1,19 +1,27 @@
 # COSTAR Prompt Improvement
 
-This will analyse your prompt idea, or draft, or productive prompt according to the CoSTAR Framework.
+* The COSTAR framework helps refine AI prompts for better clarity and effectiveness.
+* It aims to ensure prompts are clear, targeted, and appropriately styled.
 
-This prompt helped Sheila Teo win the Singapore prompt engineering competition.
-[Source](https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41)
+## Details
 
-I usually do this step, then combine it with the Fabric prompt improver as a follow up.
-I have also edited this prompt the fabric way.
+The COSTAR framework is designed to analyze and improve AI prompts by focusing on six key components: 
+* Context
+* Objective
+* Style
+* Tone
+* Audience
+* Response
 
-Have fun.
+This structured approach helps refine prompts to ensure they are clear, concise, and effective in achieving their intended purpose.
 
-COSTAR (re-written the fabric way)
+### Purpose and Use Cases
 
+The purpose of the COSTAR framework is to provide a systematic method for enhancing AI prompts. It is particularly useful for prompt engineers, AI trainers, and anyone looking to improve the quality of their AI interactions. By following the COSTAR steps, users can create prompts that are well-targeted, clear, and engaging.
+
+## Prompts
+**Current version**
 https://github.com/zielperson/AI-whispers/blob/master/Prompt%20Improvement%20-%20COSTAR/system.md
+The COSTAR framework, detailed in the current version, has been updated to include more structured steps for refining prompts. 
 
-Old COSTAR Prompt
-
-https://github.com/zielperson/AI-whispers/blob/master/Prompt%20Improvement%20-%20COSTAR/system_old.md
+The older version is [available here](https://github.com/zielperson/AI-whispers/blob/master/Prompt%20Improvement%20-%20COSTAR/system_old.md).
