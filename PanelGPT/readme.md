@@ -5,7 +5,7 @@
 - Further developments include Recursive Panel GPT and Recursive Panel with Judge.
 
 ### Overview
-Panel GPT is a technique introduced by Sun in 2023, which focuses on optimizing AI model performance using specific strategies. The detailed methodology and implementations can be found in Sun's [GitHub repository](https://github.com/holarissun/PanelGPT). A significant highlight of this technique is the penalty avoidance strategy, which has proven to be highly effective.
+Panel GPT is a technique introduced by Sun in 2023, which focuses on optimizing AI model performance using specific strategies. The detailed methodology and implementations can be found in Sun's [GitHub repository](https://github.com/holarissun/PanelGPT). Interesting is the high positive effect of the penalty avoidance strategy.
 
 https://github.com/holarissun/PanelGPT
 ### Prompt Details
