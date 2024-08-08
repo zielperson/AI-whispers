@@ -12,6 +12,5 @@ I am leaving this prompt in its original form. New development can be found here
 
 * Recursive Panel GPT
 * Recursive Panel with Judge
-=======
   
 ## Prompt
