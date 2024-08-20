@@ -1,6 +1,5 @@
 # Tree of Thoughts
-**Prompt**
-* [Tree of Thoughts](https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/system.md)
+**Prompt: [Tree of Thoughts](https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/system.md)**
 ## Summary
 
 - **Origin**: Introduced by Yao and Long in 2023, this concept structures problem-solving in a hierarchical, tree-like manner.
