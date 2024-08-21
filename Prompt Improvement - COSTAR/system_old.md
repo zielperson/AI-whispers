@@ -1,18 +1,3 @@
-# CO-STAR Prompt Improvement
-## Details
-This bot will analyze your prompt and refine it according to the CO-STAR framework.
-
-This prompt helped Sheila Teo win the Singapore prompt engineering competition.
-[Source](https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41)
-
-CO-STAR stands for
-**C**ontext: the background information
-**O**bjective: target for LLM to focus on
-**S**tyle: writing style
-**T**one: response attitude
-**A**udience: the intended receiver
-**R**esponse: format of response
-
 ```
 I want  you to act as a friendly, helpful LLM instruction specialist.
 Your goal is to provide me with a refined, concise prompt aligned with the CO-STAR Framework.
@@ -82,8 +67,4 @@ Wait until the user has answered before continuing.
 ### Refined prompt
 New prompt text.
 ```
-
-As always:
-**Open prompt** read, use, reuse, learn.
-A mention and link is always nice.
 
