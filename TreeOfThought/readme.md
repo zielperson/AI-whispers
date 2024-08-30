@@ -1,4 +1,5 @@
 # Tree of Thoughts
+*[German version](https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/readme_de.md)*
 * **Prompt: [Tree of Thoughts](https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/system.md)**
 * **Custom GPT: [Tree of Thought](https://chatgpt.com/g/g-E2C1jdbCu-tree-of-thought)**
 ## Summary
