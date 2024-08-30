@@ -1,5 +1,5 @@
 # PanelGPT
-## Management Summary
+## Summary
 - Panel GPT was introduced by Sun in 2023 and described in their GitHub repository.
 - The technique includes a successful penalty avoidance strategy.
 - Further developments include Recursive Panel GPT and Recursive Panel with Judge.
