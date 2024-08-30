@@ -25,5 +25,3 @@ For more detailed information, you can explore the original papers and additiona
 - **Yao's Paper**: [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 - **Long's Paper**: [Large Language Model Guided Tree-of-Thought](https://arxiv.org/abs/2305.08291)
 - **Hulbert's Implementation**: [Using Tree-of-Thought Prompting to boost ChatGPT's reasoning](https://github.com/dave1010/tree-of-thought-prompting)
-
-This structured approach to problem-solving opens new avenues in the application of algorithmic thinking, providing a valuable tool for researchers and practitioners in various fields.
