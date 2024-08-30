@@ -11,8 +11,8 @@ Date: 2023
 This collection looks at basic prompting techniques (Tree of Thoughts, Panel...) and moves on to more advanced prompting.
 These are base knowledge if you want to get deeper into prompting.
 
-* [Tree of Thoughts](https://github.com/zielperson/AI-whispers/tree/master/TreeOfThought)
-* [PanelGPT](https://github.com/zielperson/AI-whispers/tree/master/PanelGPT)
+* [Tree of Thoughts](https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/readme.md)
+* [PanelGPT](https://github.com/zielperson/AI-whispers/tree/master/PanelGPT/readme.md)
 * [Potato](https://github.com/zielperson/AI-whispers/blob/master/Potato.md)
 * [Contextual scaffolds](https://github.com/zielperson/AI-whispers/blob/master/contextual%20scaffolding.md)
 * [Program Simulation Framework](https://github.com/zielperson/AI-whispers/blob/master/program%20simulation%20framework.md)
