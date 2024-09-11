@@ -1,5 +1,6 @@
 # AI Whispers
-A repository for all my LLM prompts.
+A repository for fundamental prompts lime Chain of Thought, PanelGPT, etc.. , metaprompts COSTAR, and PICOI, and advsnced prompts suvh as "Self simulating program".
+My own LLM prompts are here, too.
 
 ## Information
 Author: Marcus Klinge  
