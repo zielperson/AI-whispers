@@ -1,5 +1,5 @@
 # AI Whispers
-A repository for fundamental prompts like Chain of Thought, PanelGPT, etc.. , metaprompts COSTAR, and PICOI, and advsnced prompts suvh as "Self simulating program".
+A repository for fundamental prompts like Chain of Thought, PanelGPT, etc.. , metaprompts COSTAR, and PICOI.
 My own LLM prompts are here, too.
 
 ## Information
