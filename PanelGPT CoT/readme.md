@@ -14,6 +14,9 @@ ein PanelGPT, sehr genau gesteuert durch einen CoT Prozess und Output Vorgaben.
 
 *Tokens berechnet mit [OpenAI Tokenizer](https://platform.openai.com/tokenizer?view=bpe) *
 *Stand 23.09.2024 - Benutzt Tokenizer Modell 3.5 & 4 , noch kein neueres verfügbar.*
+
+<img src="https://github.com/user-attachments/assets/abfdfe30-9355-4a50-82cd-a0107819780e" width="600"/>
+
 ## V1_00 First Changes
 Ergebnis nach einigem editieren des Originals.
 
