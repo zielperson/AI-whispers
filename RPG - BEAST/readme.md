@@ -1,6 +1,5 @@
 # BEAST - Monster Descriptions for Tabletop Roleplaying Game
-
-### BEAST
+Marcus Klinge, 2024
 
 This prompt will ask for details, and then create a monster description along the following attributes:
 
@@ -10,4 +9,5 @@ This prompt will ask for details, and then create a monster description along th
 * Special
 * Teeth
 
-https://github.com/zielperson/AI-whispers/blob/master/BEAST/system.md
+## Prompt
+Full prompt [here](https://github.com/zielperson/AI-whispers/blob/master/RPG%20-%20BEAST/system.md).
