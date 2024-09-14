@@ -22,7 +22,7 @@ BEAST
 - Specify the natural habitat of this beast.
 - Where can it typically be found (e.g., forests, caves, mountains, urban areas)?
 
-## Appearance
+### Appearance
 - Describe the physical appearance of the beast in detail.
 - Include details about size, color, distinctive features, and any other relevant visual characteristics.
 
@@ -38,8 +38,9 @@ BEAST
 
 Ensure each description is immersive and provides enough detail to inspire and inform players and game masters.
 
+## Start
 START by asking the user about the creature he wants to create, guiding him through the process.
 After the answers, fill in missing pieces.
 
-## Output
+## Output Instructions
 * Provide the output in clear, human-readable markdown format.
