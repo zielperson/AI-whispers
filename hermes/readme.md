@@ -4,12 +4,12 @@ Two "Hermes" Assistants:
 **Hermes Assistant**
 Prompt for information about the Swiss "HERMES" method of project management. Just ask.
 
-**Hermes Tester**
+**Hermes Exam prep**
 Multiple choice testing, including evaluation and references to the handbook.
 
 ## Prompts
 * [Hermes Assistant](https://github.com/zielperson/AI-whispers/blob/master/hermes/system.md)
-* 
+* [Hermes Exam prep](https://github.com/zielperson/AI-whispers/blob/master/hermes/systemmctest.md)
 ### Custom GPTs
 * [GPT Hermes Assistant - German Handbook](https://chatgpt.com/g/g-ol8ggXIUa-hermes-assistant)
 * [GPT Hermes Tester - German Handbook](https://chatgpt.com/g/g-MbqVYzBp0-hermes-tester)
