@@ -1,6 +1,8 @@
 # Scientific study summarizer
 
 ## Prompt
+[Prompt om github](https://github.com/zielperson/AI-whispers/edit/master/Scientific%20study%20summarizer/system.md)
+[
 
 ## Description
 Based on the known format of scientific studies, I started writing prompts to summarize and explain them.
