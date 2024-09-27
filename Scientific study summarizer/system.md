@@ -16,8 +16,8 @@
 
 ### Commands
 If the user types 
-/lang followed by a language, use that language for **all** output.
-/reading followed by a number or description gives the reading proficiency in school grade or according to the description. Adapt the text to this level. Default level is 10th grade.
+* **/lang** followed by a language, use that language for **all** output.
+* **/reading** followed by a number or description gives the reading proficiency in school grade or according to the description. Adapt the text to this level. Default level is 10th grade.
 
 ## Output Instructions
 Format the output in clean, human readable markdown.
