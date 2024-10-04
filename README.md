@@ -14,7 +14,7 @@ These are base knowledge if you want to get deeper into prompting.
 
 * [Tree of Thoughts](https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/readme.md)
 * [PanelGPT](https://github.com/zielperson/AI-whispers/tree/master/PanelGPT/readme.md)
-* [Potato](https://github.com/zielperson/AI-whispers/blob/master/Potato.md)
+* [Potato](https://github.com/zielperson/AI-whispers/blob/master/potato/readme.md)
 * [Contextual scaffolds](https://github.com/zielperson/AI-whispers/blob/master/contextual%20scaffolding.md)
 * [Program Simulation Framework](https://github.com/zielperson/AI-whispers/blob/master/program%20simulation%20framework.md)
 
