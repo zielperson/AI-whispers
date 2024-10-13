@@ -5,7 +5,7 @@
   
 ## Management Summary
 
-*   Custom GPT prompts help summarize scientific papers using predefined structures.
+*   Custom GPT prompt to help summarize scientific papers using predefined structures.
 
 ## Introduction
 
