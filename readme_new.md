@@ -53,7 +53,7 @@ Based on PanelGPT, here are two more prompts:
     <td>Recursive Panel</td>
     <td>Recursive multi-perspective conversation</td>
     <td>Marcus Klinge</td>
-    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/recursive%20panel.md">GitHub</a></td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/PanelGPT%20recursive/readme.md">GitHub</a></td>
     <td>Custom GPT</td>
   </tr>
   <tr>
