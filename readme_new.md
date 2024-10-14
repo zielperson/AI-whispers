@@ -26,7 +26,7 @@ These are foundational knowledge if you want to get deeper into prompting and cr
     <td>PanelGPT</td>
     <td>Multi-perspective conversation</td>
     <td>Sun</td>
-    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/PanelGPT/readme.md">GitHub</a></td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/PanelGPT%20recursive/readme.md">GitHub</a></td>
     <td>Custom GPT</td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ Based on PanelGPT, here are two more prompts:
     <td>Panel with Judge</td>
     <td>Multi-perspective conversation with a judging component</td>
     <td>Marcus Klinge</td>
-    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/recpanelwjudge.md">GitHub</a></td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/PanelGPT%20recursive%20with%20Judge/readme.md">GitHub</a></td>
     <td>Custom GPT</td>
   </tr>
 </table>
