@@ -69,8 +69,28 @@ Based on PanelGPT, here are two more prompts:
 ## Advanced prompts by Giuseppe Scalamogna
 These are advanced prompts, very much worth a look:
 
-* [Contextual scaffolds](https://github.com/zielperson/AI-whispers/blob/master/contextual%20scaffolding.md)
-* [Program Simulation Framework](https://github.com/zielperson/AI-whispers/blob/master/program%20simulation%20framework.md)
+<table>
+  <tr>
+    <th>Prompt Title</th>
+    <th>Description</th>
+    <th>Author</th>
+    <th colspan="2">Links</th>
+  </tr>
+  <tr>
+    <td>Contextual Scaffolds</td>
+    <td>A framework of contextual guidance for complex task management.</td>
+    <td>Giuseppe Scalamogna</td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/contextual%20scaffolding.md">GitHub</a></td>
+    <td>Custom GPT</td>
+  </tr>
+  <tr>
+    <td>Program Simulation Framework</td>
+    <td>ChatGPT simulating complex program execution scenarios with dynamic context adjustment.</td>
+    <td>Giuseppe Scalamogna</td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/program%20simulation%20framework.md">GitHub</a></td>
+    <td>Custom GPT</td>
+  </tr>
+</table>
 
 ## My prompt library
 
