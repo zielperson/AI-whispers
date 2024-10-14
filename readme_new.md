@@ -1,10 +1,8 @@
 # AI Whispers
-A repository for fundamental prompts like Chain of Thought, PanelGPT, etc.. , metaprompts COSTAR, and PICOI.
-My own LLM prompts are here, too.
+This repository functions as both a collection of my own prompts, and a collection for prompts by other people for easy access.
+Credit is always given and the original sources are linked.
 
-**Information**
-Author: Marcus Klinge  
-Date: 2023
+Each prompt will be accompanied by a readme explaining the details and background.
 
 ## Tutorial: Foundations of Advanced Prompting
 This collection looks at basic prompting techniques (Tree of Thoughts, Panel...) and moves on to more advanced prompting.
