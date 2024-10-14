@@ -4,25 +4,67 @@ Credit is always given and the original sources are linked.
 
 Each prompt will be accompanied by a readme explaining the details and background.
 
-## Tutorial: Foundations of Advanced Prompting
+## Series: Foundations of Advanced Prompting
 This collection looks at basic prompting techniques (Tree of Thoughts, Panel...) and moves on to more advanced prompting.
 These are foundational knowledge if you want to get deeper into prompting and create advanced prompts.
 
-**Foundations of advanced prompting**
+<table>
+  <tr>
+    <th>Prompt Title</th>
+    <th>Description</th>
+    <th>Author</th>
+    <th colspan="2">Links</th>
+  </tr>
+  <tr>
+    <td>Tree of Thoughts</td>
+    <td>Generates complex, branching ideas</td>
+    <td>Yao, Long, Hulbert</td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/readme.md">GitHub</a></td>
+    <td>Custom GPT</td>
+  </tr>
+  <tr>
+    <td>PanelGPT</td>
+    <td>Multi-perspective conversation</td>
+    <td>Sun</td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/PanelGPT/readme.md">GitHub</a></td>
+    <td>Custom GPT</td>
+  </tr>
+  <tr>
+    <td>Potato</td>
+    <td>Get concise responses without fluff</td>
+    <td>Dom Sipowicz</td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/potato/readme.md">GitHub</a></td>
+    <td>Custom GPT</td>
+  </tr>
+</table>
 
-These prompts are included:
-
-| Prompt Title       | Description                       | Author            | Link                                | 
-|--------------------|-----------------------------------|-------------------|--------------------------------------------|
-| Tree of Thoughts   | Generates complex, branching ideas | Yao, Long, Hulbert          | [Tree of Thoughts](https://github.com/zielperson/AI-whispers/blob/master/TreeOfThought/readme.md)  |  
-| PanelGPT           | Multi-perspective conversation     | Sun            | [PanelGPT ](https://github.com/zielperson/AI-whispers/blob/master/PanelGPT/readme.md)      | 
-| Potato             | Get concise responses without fluff      | Dom Sipowicz            | [Potato](https://github.com/zielperson/AI-whispers/blob/master/potato/readme.md)         |  
 
 
 ## Variations of Panel GPT
 Based on PanelGPT, here are two more prompts:
-* [Recursive Panel](https://github.com/zielperson/AI-whispers/blob/master/recursive%20panel.md)
-* [Panel with judge](https://github.com/zielperson/AI-whispers/blob/master/recpanelwjudge.md)
+<table>
+  <tr>
+    <th>Prompt Title</th>
+    <th>Description</th>
+    <th>Author</th>
+    <th colspan="2">Links</th>
+  </tr>
+  <tr>
+    <td>Recursive Panel</td>
+    <td>Recursive multi-perspective conversation</td>
+    <td>Marcus Klinge</td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/recursive%20panel.md">GitHub</a></td>
+    <td>Custom GPT</td>
+  </tr>
+  <tr>
+    <td>Panel with Judge</td>
+    <td>Multi-perspective conversation with a judging component</td>
+    <td>Marcus Klinge</td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/recpanelwjudge.md">GitHub</a></td>
+    <td>Custom GPT</td>
+  </tr>
+</table>
+
 
 ## Advanced prompts by Giuseppe Scalamogna
 These are advanced prompts, very much worth a look:
