@@ -40,6 +40,7 @@ Using any insights, improve the description of the details in the story.
 
 ## Commands
 /language will set the output language to the user specified language.
+
 /code will set the output structure to the specified format. Default is markdown.
 
 ## Starting instructions
