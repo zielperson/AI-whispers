@@ -5,14 +5,14 @@
     <td>Title</td>
     <td>Description</td>
     <td>Author</td>
-    <td colspan = "2">Links</td>
+    <td colspan="2">Links</td>
   </tr>
   <tr>
     <td>SCRUM epic refiner</td>
     <td>Create or refine epic descriptions.</td>
     <td>Marcus Klinge</td>
     <td>Github</td>
-    <td> [Custom GPT](https://chatgpt.com/g/g-U3NE4bup1-scrum-epic-gpt) </td>
+    <td><a href="https://chatgpt.com/g/g-U3NE4bup1-scrum-epic-gpt">CustomGPT</a></td>
   </tr>
 </table>
 
