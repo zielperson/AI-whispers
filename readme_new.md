@@ -97,9 +97,9 @@ These are advanced prompts, very much worth a look:
 ### SCRUM Assistants
 As a SCRUM master, dealing with stories and epics gets easier.
 These are named assistants on purpose; the output of these prompts almost always needs human expertise.
-* [SCRUM Story Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20story%20refinement.md)
-* [Story Splitting Assistant](https://github.com/zielperson/AI-whispers/blob/master/Story%20Splitting.md)
-* [Epic Refinement](https://github.com/zielperson/AI-whispers/blob/master/Epic%20Refinement.md)
+* [SCRUM User Story Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20-%20Story%20Refinement/readme.md)
+* [Story Splitting Assistant](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20-%20Story%20Splitting/Story%20Splitting.md)
+* [Epic Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20-%20Epic%20refinement/readme.md)
 
 ### Text improvement
 Prompts dealing with texts.
@@ -107,12 +107,12 @@ Prompts dealing with texts.
   
 ### GM's Familiar
 A series of prompts to aid GameMasters of Tabletop Roleplaying games. From characters to beasts.
-* [AIMS - TTRPG Character creator](https://github.com/zielperson/AI-whispers/blob/master/RPG%20-%20AIMS.md) 
-* [LAND Location generator](https://github.com/zielperson/AI-whispers/blob/master/LAND.md)
-* [BEAST - Creature generator](https://github.com/zielperson/AI-whispers/blob/master/BEAST.md)
+* [AIMS - TTRPG Character creator](https://github.com/zielperson/AI-whispers/blob/master/RPG%20-%20AIMS/readme.md)
+* [LAND Location generator](https://github.com/zielperson/AI-whispers/blob/master/RPG%20-%20LAND/system.md)
+* [BEAST - Creature generator](https://github.com/zielperson/AI-whispers/blob/master/RPG%20-%20BEAST/readme.md)
 
 ### Metaprompts
 Prompts creating and refining other prompts.
-* [Prompt Improver](https://github.com/zielperson/AI-whispers/blob/master/Prompt%20Improver.md)
-* [CO-STAR Prompt Refinement](https://github.com/zielperson/AI-whispers/tree/master/Prompt%20Improvement%20-%20COSTAR)
-* [PICOI Prompt Improvement](https://github.com/zielperson/AI-whispers/blob/master/picoi.md)
+* [Prompt Improver](https://github.com/zielperson/AI-whispers/blob/master/Prompt%20Improvement%20-%20My%20Improver/readme.md)
+* [CO-STAR Prompt Refinement](https://github.com/zielperson/AI-whispers/blob/master/Prompt%20Improvement%20-%20COSTAR/readme.md)
+* [PICOI Prompt Improvement](https://github.com/zielperson/AI-whispers/blob/master/Prompt%20Improvement%20-%20PICOI/readme.md)
