@@ -12,7 +12,7 @@
     <td>Create or refine epic descriptions.</td>
     <td>Marcus Klinge</td>
     <td>Github</td>
-    <td>[Custom GPT](https://chatgpt.com/g/g-U3NE4bup1-scrum-epic-gpt)</td>
+    <td> [Custom GPT](https://chatgpt.com/g/g-U3NE4bup1-scrum-epic-gpt) </td>
   </tr>
 </table>
 
