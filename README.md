@@ -101,10 +101,12 @@ These are named assistants on purpose; the output of these prompts almost always
 * [Story Splitting Assistant](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20-%20Story%20Splitting/Story%20Splitting.md)
 * [Epic Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20-%20Epic%20refinement/readme.md)
 
-### Text improvement
-Prompts dealing with texts.
+### Working with texts
+Prompts deealing with all kinds of texts, and all kinds of work with texts from various domains.
+
 * [Textimprover v2](https://github.com/zielperson/AI-whispers/blob/master/Textimproverv2.md)
-  
+* [Scientific study summarizer](https://github.com/zielperson/AI-whispers/blob/master/Scientific%20study%20summarizer/readme.md)
+
 ### GM's Familiar
 A series of prompts to aid GameMasters of Tabletop Roleplaying games. From characters to beasts.
 * [AIMS - TTRPG Character creator](https://github.com/zielperson/AI-whispers/blob/master/RPG%20-%20AIMS/readme.md)
