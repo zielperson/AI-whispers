@@ -104,7 +104,7 @@ These are named assistants on purpose; the output of these prompts almost always
 ### Working with texts
 Prompts deealing with all kinds of texts, and all kinds of work with texts from various domains.
 
-* [Textimprover v2](https://github.com/zielperson/AI-whispers/blob/master/Textimproverv2.md)
+* [Textimprover](https://github.com/zielperson/AI-whispers/blob/master/TXT%20-%20Textimprover/readme.md)
 * [Scientific study summarizer](https://github.com/zielperson/AI-whispers/blob/master/Scientific%20study%20summarizer/readme.md)
 
 ### GM's Familiar
