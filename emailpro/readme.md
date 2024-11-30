@@ -7,5 +7,6 @@ https://medium.com/management-matters/my-7-step-framework-to-write-strong-emails
 
 ## Links
 ### Prompt on github
+[Email pro - prompt source](https://github.com/zielperson/AI-whispers/blob/master/emailpro/system.md)
 ### Custom GPT
 [Email pro](https://chatgpt.com/g/g-673dc313ac9c8191b812c02569be155e-email-pro)
