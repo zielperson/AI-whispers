@@ -80,7 +80,7 @@ These are advanced prompts, very much worth a look:
     <td>Contextual Scaffolds</td>
     <td>A framework of contextual guidance for complex task management.</td>
     <td>Giuseppe Scalamogna</td>
-    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/contextual%20scaffolding.md">GitHub</a></td>
+    <td><a href="https://github.com/zielperson/AI-whispers/blob/master/scaffolding/readme.md">GitHub</a></td>
     <td>Custom GPT</td>
   </tr>
   <tr>
