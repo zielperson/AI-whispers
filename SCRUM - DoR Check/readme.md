@@ -1,4 +1,4 @@
-# SCRUM Epic Refinement
+# SCRUM DoR Check
 
 <table>
   <tr>
