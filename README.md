@@ -98,6 +98,7 @@ These are advanced prompts, very much worth a look:
 As a SCRUM master, dealing with stories and epics gets easier.
 These are named assistants on purpose; the output of these prompts almost always needs human expertise.
 * [SCRUM User Story Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20-%20Story%20Refinement/readme.md)
+* [SCRUM DoR Check](https://github.com/zielperson/AI-whispers/tree/master/SCRUM%20-%20DoR%20Check)
 * [Story Splitting Assistant](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20-%20Story%20Splitting/Story%20Splitting.md)
 * [Epic Refinement](https://github.com/zielperson/AI-whispers/blob/master/SCRUM%20-%20Epic%20refinement/readme.md)
 
