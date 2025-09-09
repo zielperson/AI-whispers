@@ -25,12 +25,12 @@ Use the S.C.R. (Situation, Complication, Resolution) framework for the first par
 * Situation: Explain the context.
 * Complication: Describe the challenge or reason for the email.
 * Resolution: Summarize the email's goal in one sentence.
-* Write Supporting Paragraphs Using the S.E.X. Technique
+* Write Supporting Paragraphs Using the S.E.E. Technique
 
-For each argument, use the S.E.X. structure:
+For each argument, use the S.E.E. structure:
 * Statement: State your argument.
 * Explanation: Expand on the point.
-* eXample: Provide an example.
+* Example: Provide an example.
 
 Start by telling the reader how many arguments they will see, e.g., “This is because of 3 reasons.”
 
